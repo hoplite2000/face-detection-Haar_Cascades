@@ -1,6 +1,6 @@
-Face Detector
+# Face Detector
 
-his repository contains a module to detect faces in real-time. This face detection module is built using Haar Cascades.
+This repository contains a module to detect faces in real-time. This face detection module is built using Haar Cascades.
 
 The Haar Cascade.xml file is availabe in seperate directories.
 
